@@ -6,8 +6,12 @@ The following repository is a simple express app built for educational purposes.
 
 install the necessary dependecies
 
-`$ npm install `
+```javascript
+$ npm install
+```
 
 Run the express server
 
-`$ npm run start:dev`
+```javascript
+$ npm run start:dev
+```
